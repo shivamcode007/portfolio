@@ -14,7 +14,7 @@ const projects = [
     image2:
       salva2,  
     tech: ["React", "Tailwind CSS"],
-    github: "https://github.com/Yuvrajcode1",
+    github: "https://github.com/shivamcode007",
     live: "https://yuvrajcode1.github.io/ecommerce/",
     features: [
       "Login & Signup",

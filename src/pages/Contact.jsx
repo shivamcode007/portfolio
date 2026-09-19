@@ -55,20 +55,20 @@ const Contact = () => {
             <FaEnvelope className="text-3xl text-cyan-400 mx-auto mb-4" />
             <h3 className="text-white font-semibold mb-2">Email</h3>
             <p className="text-gray-400 break-all">
-              yurajshingh70@gmail.com
+              shivamthakur8540@gmail.com
             </p>
           </div>
 
           <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-6 text-center">
             <FaPhoneAlt className="text-3xl text-cyan-400 mx-auto mb-4" />
             <h3 className="text-white font-semibold mb-2">Phone</h3>
-            <p className="text-gray-400">+91 9798295992</p>
+            <p className="text-gray-400">+91 8540839430</p>
           </div>
 
           <div className="bg-white/5 backdrop-blur-xl border border-white/10 rounded-3xl p-6 text-center">
             <FaMapMarkerAlt className="text-3xl text-cyan-400 mx-auto mb-4" />
             <h3 className="text-white font-semibold mb-2">Location</h3>
-            <p className="text-gray-400">Saran, Bihar</p>
+            <p className="text-gray-400">Siwan,Bihar</p>
           </div>
         </div>
 
@@ -136,7 +136,7 @@ const Contact = () => {
 
             <div className="space-y-4">
               <a
-                href="https://github.com/Yuvrajcode1"
+                href="https://github.com/shivamcode007"
                 target="_blank"
                 rel="noreferrer"
                 className="flex items-center gap-4 bg-slate-900 p-4 rounded-xl border border-transparent hover:border-cyan-400 transition"
